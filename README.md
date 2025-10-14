@@ -35,7 +35,7 @@ The goal is to combine tiles with the same number to reach 2048.
 ---
 
 ### 🚀 Play Online
-👉 [Click here to play the game]([https://akrishnan17.github.io/2048-game/))
+👉👉 [Click here to play the game](https://ananthakrishnan17.github.io/2048-game/)
 
 ---
 
